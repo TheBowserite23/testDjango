@@ -1,0 +1,44 @@
+header {
+    background-color: orange;
+    color: black;
+    text-align: left;
+    font-weight: bold;
+    padding: 20px;
+    width: 100%;
+    font-size: 20px;
+  }
+
+  body {
+    background-color: darkred;
+  }
+
+article{
+    background-color: pink;
+    display: block;
+    padding: 10px;
+    margin: 5px;
+    border: 2px solid white;
+  } 
+
+.header-container{
+    clear: both;
+    position: relative;
+}
+.artikel-container{
+    float: right;
+    width: 30%;
+    margin-right: 150px;
+    margin-top: 150px;
+    margin-bottom: 150px;
+}
+  footer {
+    background-color: orange;
+    text-align: left;
+    padding: 10px;
+    font-weight: bold;
+    border-top: 50px solid orange;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
